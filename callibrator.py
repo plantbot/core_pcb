@@ -6,10 +6,14 @@ ser = serial.Serial('/dev/ttyACM0', 9600)
 print("#### STARTING READ ####")
 
 while 1:
-    serial_line = ser.readline()
-    # Write the data to a file 
+    try:
+        serial_line = ser.readline()
+    except:
+        print("Some Error")
+
+    # Write the data to a file
     with open("moisture.data", "a") as myfile:
-      myfile.write("%i\n" % int(serial_line.strip()))
+        myfile.write("%s\n" % serial_line.strip())
     print("Reading: %s" % serial_line.strip())
     # time.sleep(1)
 
