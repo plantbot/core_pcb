@@ -29,10 +29,10 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:kookie_utilities
-LIBS:nxp
-LIBS:ESP8266
-LIBS:c2102
+LIBS:kookie_logic_symbols
 LIBS:kookie_ic_soc
+LIBS:christmas_bauble
+LIBS:kookie_logic
 LIBS:flowerbot-cache
 EELAYER 25 0
 EELAYER END

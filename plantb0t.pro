@@ -1,4 +1,4 @@
-update=Tue 24 May 2016 22:03:23 CEST
+update=Sun 12 Jun 2016 22:52:55 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,16 +6,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=79
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -72,3 +62,14 @@ LibName30=/home/spacekookie/Projects/Electronics/libraries/kookielibs/power/kook
 LibName31=/home/spacekookie/Projects/Electronics/libraries/kookielibs/logic/kookie_logic
 LibName32=/home/spacekookie/Projects/Electronics/libraries/kookielibs/microcontrollers/kookie_mcu
 LibName33=/home/spacekookie/Projects/Electronics/libraries/kookielibs/esp8266/ESP8266
+LibName34=/home/spacekookie/Projects/Electronics/libraries/kookielibs/sensors/kookie_sensors
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=39
