@@ -1,4 +1,4 @@
-update=Sun 12 Jun 2016 22:52:55 CEST
+update=Sat 24 Sep 2016 20:49:05 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,6 +25,16 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=39
 [eeschema]
 version=1
 LibDir=
@@ -58,18 +68,7 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/spacekookie/Projects/Electronics/libraries/kookielibs/power/kookie_power
-LibName31=/home/spacekookie/Projects/Electronics/libraries/kookielibs/logic/kookie_logic
-LibName32=/home/spacekookie/Projects/Electronics/libraries/kookielibs/microcontrollers/kookie_mcu
-LibName33=/home/spacekookie/Projects/Electronics/libraries/kookielibs/esp8266/ESP8266
-LibName34=/home/spacekookie/Projects/Electronics/libraries/kookielibs/sensors/kookie_sensors
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=39
+LibName30=/home/spacekookie/Projects/electronics/libraries/kookielibs/power/kookie_power
+LibName31=/home/spacekookie/Projects/electronics/libraries/kookielibs/microcontrollers/kookie_mcu
+LibName32=/home/spacekookie/Projects/electronics/libraries/kookielibs/sensors/kookie_sensors
+LibName33=/home/spacekookie/Projects/electronics/libraries/kookielibs/esp8266/ESP8266
