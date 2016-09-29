@@ -1,4 +1,4 @@
-update=Sat 24 Sep 2016 20:49:05 CEST
+update=Mi 28 Sep 2016 10:57:56 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -68,7 +68,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/spacekookie/Projects/electronics/libraries/kookielibs/power/kookie_power
+LibName30=/home/spacekookie/Projects/electronics/libraries/kookielibs/sensors/kookie_sensors
 LibName31=/home/spacekookie/Projects/electronics/libraries/kookielibs/microcontrollers/kookie_mcu
-LibName32=/home/spacekookie/Projects/electronics/libraries/kookielibs/sensors/kookie_sensors
-LibName33=/home/spacekookie/Projects/electronics/libraries/kookielibs/esp8266/ESP8266
+LibName32=/home/spacekookie/Projects/electronics/libraries/kookielibs/power/kookie_power
+LibName33=/home/spacekookie/Projects/electronics/libraries/kookielibs/logic/kookie_logic
+LibName34=/home/spacekookie/Projects/electronics/libraries/kookielibs/esp8266/ESP8266
