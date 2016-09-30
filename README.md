@@ -2,16 +2,17 @@
 
 An "internet of things" environmental sensor board for your house plants & hydroponic systems. It allows you to monitor your plant health remotely, script responsive actions to events (not enough water, not enough sun, too hot, too cold, too humid, etc.) with a simple block-based drag and drop interface on your phone or computer.
 
-The preliminary specs are:
+**The preliminary specs are**
 
-1x Wifi enabled microprocessor
-1x USB board programmer for firmware updates
+ - 1x Wifi enabled microprocessor
+ - 1x USB board programmer for firmware updates
+ - 4x Analog Sensor mounts (Water, Temperature, Light, ...)
+ - 2x I²C Sensor mounts (PH, Pressure, Humidity, etc. Not included or directly supported by us)
 
-4x Analog Sensor mounts (Water, Temperature, Light, ...)
-2x I²C Sensor mounts (PH, Pressure, Humidity, etc. Not included or directly supported by us)
+**Additional features**
 
-Includes an ultra-low-power sleep which can't be woken via Wifi triggers.
-Includes a 16-pin expansion bus header for more Plantb0t goodies.
+ - Includes an ultra-low-power sleep which can't be woken via Wifi triggers.
+ - Includes a 16-pin expansion bus header for more Plantb0t goodies.
 
 Via the 16-pin header, several things can be added as shields (shields can stack on top of each other):
 
