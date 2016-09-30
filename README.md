@@ -1,25 +1,31 @@
-# Open Flowerb0t
+# Open Plantb0t - Rev. A2
 
-An ESP8266 powered water sensors for your house plants & hydroponic systems. This board is currently still in heavy development. So please beware. Follow my blog [here](https://spacekookie.de/blog/) for details.
+An "internet of things" environmental sensor board for your house plants & hydroponic systems. It allows you to monitor your plant health remotely, script responsive actions to events (not enough water, not enough sun, too hot, too cold, too humid, etc.) with a simple block-based drag and drop interface on your phone or computer.
 
-## Partlist
+The preliminary specs are:
 
-Here is a list of parts (including quantities) that you need to build your Plantb0t. This is only for Revision A.
+1x Wifi enabled microprocessor
+1x USB board programmer for firmware updates
 
- - ESP-12MOD (1x)
- - CP2102 - CP2102-GM (1x)
- - Zener-Diode (x3)
- - Constant Current Source - PSSI2021SAY (2x)
- - 3.3V Voltage Reg - LM2937IMP-3.3/NOPB (1x)
- - RTD Sensor - TD5A (1x)
- - Analog MUX - 74LVC1G53DC (1x)
- - SMD LED - KPT-3216EC (4x)
+4x Analog Sensor mounts (Water, Temperature, Light, ...)
+2x I²C Sensor mounts (PH, Pressure, Humidity, etc. Not included or directly supported by us)
 
-All parts bought in single neccessary values on element14 were like...10 bucks?
+Includes an ultra-low-power sleep which can't be woken via Wifi triggers.
+Includes a 16-pin expansion bus header for more Plantb0t goodies.
 
-Updates about this project will follow soooon! 
+Via the 16-pin header, several things can be added as shields (shields can stack on top of each other):
 
-## Some dynamic renders
+ - Power supply and battery charging circuit
+ - Stepper motor driver
+ - 12V motor driver
+ - ... Your own? ...
+
+More information on OpenPlantb0t will follow soon. 
+
+
+## Some old renders
+
+These pictures are for the A1 variant and no longer represent the complexity of the project and circuit board. Still, enjoy the view :)
 
 **From the front**
 
