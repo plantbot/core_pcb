@@ -1,4 +1,4 @@
-update=Mi 28 Sep 2016 10:57:56 CEST
+update=Sat 01 Oct 2016 02:49:08 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,25 +6,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=flowerbot_RevA.net
-PadDrill=0.762
-PadDrillOvalY=0.762
-PadSizeH=1.524
-PadSizeV=1.524
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0.2
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.15
-ModuleOutlineThickness=0.15
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -73,3 +54,23 @@ LibName31=/home/spacekookie/Projects/electronics/libraries/kookielibs/microcontr
 LibName32=/home/spacekookie/Projects/electronics/libraries/kookielibs/power/kookie_power
 LibName33=/home/spacekookie/Projects/electronics/libraries/kookielibs/logic/kookie_logic
 LibName34=/home/spacekookie/Projects/electronics/libraries/kookielibs/esp8266/ESP8266
+LibName35=/home/spacekookie/Projects/electronics/libraries/kookielibs/leds/kookie_leds
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=plantb0t_reva2.net
+PadDrill=0.762
+PadDrillOvalY=0.762
+PadSizeH=1.524
+PadSizeV=1.524
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0.2
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.15
