@@ -276,7 +276,7 @@ U 1 1 575E5091
 P 9650 1850
 F 0 "P3" H 9650 2050 50  0000 C CNN
 F 1 "CONN_02X03" H 9650 1650 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x03" H 9650 650 50  0001 C CNN
+F 2 "base_types:prog_6pin" H 9650 650 50  0001 C CNN
 F 3 "" H 9650 650 50  0000 C CNN
 	1    9650 1850
 	0    1    1    0   
