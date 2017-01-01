@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name docs)(type KiCad)(uri "$(KIPRJMOD)/docs")(options "")(descr ""))
-  (lib (name plantbot_kicad)(type KiCad)(uri "$(KIPRJMOD)/docs/plantbot_kicad")(options "")(descr ""))
-)
