@@ -30,15 +30,12 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:kookie_regulators
-LIBS:kookie_passive
 LIBS:kookie_nxp
 LIBS:kookie_microchip
 LIBS:kookie_iox
-LIBS:kookie_bosch
 LIBS:ESP8266
-LIBS:kookie_74xx
 LIBS:plantb0t-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8

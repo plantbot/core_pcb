@@ -1,4 +1,4 @@
-update=2016-12-29T21:12:59 CET
+update=Mi 29 Mär 2017 20:09:23 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -59,11 +59,8 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/spacekookie/Projects/personal/electronics/kookielibs/regulators/kookie_regulators
-LibName32=/home/spacekookie/Projects/personal/electronics/kookielibs/passive/kookie_passive
-LibName33=/home/spacekookie/Projects/personal/electronics/kookielibs/nxp/kookie_nxp
-LibName34=/home/spacekookie/Projects/personal/electronics/kookielibs/microchip/kookie_microchip
-LibName35=/home/spacekookie/Projects/personal/electronics/kookielibs/iox/kookie_iox
-LibName36=/home/spacekookie/Projects/personal/electronics/kookielibs/bosch/kookie_bosch
-LibName37=/home/spacekookie/Projects/personal/electronics/kookielibs/esp8266/ESP8266
-LibName38=/home/spacekookie/Projects/personal/electronics/kookielibs/74xx/kookie_74xx
+LibName31=/home/spacekookie/Projects/electronics/libraries/kookielibs/regulators/kookie_regulators
+LibName32=/home/spacekookie/Projects/electronics/libraries/kookielibs/nxp/kookie_nxp
+LibName33=/home/spacekookie/Projects/electronics/libraries/kookielibs/microchip/kookie_microchip
+LibName34=/home/spacekookie/Projects/electronics/libraries/kookielibs/iox/kookie_iox
+LibName35=/home/spacekookie/Projects/electronics/libraries/kookielibs/esp8266/ESP8266
