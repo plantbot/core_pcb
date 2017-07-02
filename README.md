@@ -1,4 +1,4 @@
-# Open Plantb0t
+# Open Plantbot
 
 Because growing plants is hard work and nobody ain't got no time for that anymore. This project was started after I managed to kill a plant my mother got me for my birthday last year because it was "unkillable". Ha.
 
