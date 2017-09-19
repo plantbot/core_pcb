@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:plantb0t-rescue
+LIBS:plantbot_core-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,13 +29,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:kookie_regulators
-LIBS:kookie_nxp
-LIBS:kookie_microchip
-LIBS:kookie_iox
 LIBS:ESP8266
-LIBS:plantb0t-cache
-EELAYER 26 0
+LIBS:kookie_iox
+LIBS:kookie_microchip
+LIBS:kookie_nxp
+LIBS:kookie_regulators
+LIBS:plantbot_core-cache
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -914,7 +914,7 @@ GPIO_TRIG
 Text HLabel 9400 4900 2    59   Input ~ 0
 GPIO_1
 $Comp
-L BS170 Q2
+L BS170-RESCUE-plantbot_core Q2
 U 1 1 57EF4D65
 P 9050 4450
 F 0 "Q2" H 9250 4525 50  0000 L CNN

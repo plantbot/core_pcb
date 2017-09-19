@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:plantb0t-rescue
+LIBS:plantbot_core-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,13 +29,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:kookie_regulators
-LIBS:kookie_nxp
-LIBS:kookie_microchip
-LIBS:kookie_iox
 LIBS:ESP8266
-LIBS:plantb0t-cache
-EELAYER 26 0
+LIBS:kookie_iox
+LIBS:kookie_microchip
+LIBS:kookie_nxp
+LIBS:kookie_regulators
+LIBS:plantbot_core-cache
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -86,7 +86,7 @@ $Sheet
 S 900  2900 1350 1000
 U 5744BD50
 F0 "Sensor Mounts" 59
-F1 "plantb0t_RevA2_Sensors.sch" 39
+F1 "plantbot_core_RevA2_Sensors.sch" 39
 F2 "I2C_DATA" I R 2250 3000 79 
 F3 "I2C_CLOCK" I R 2250 3150 79 
 F4 "SENSE_WIRE" I R 2250 3300 79 
@@ -412,7 +412,7 @@ F 3 "" H 5300 6700 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L BS170 Q1
+L BS170-RESCUE-plantbot_core Q1
 U 1 1 57456A48
 P 10300 5150
 F 0 "Q1" H 10500 5225 50  0000 L CNN
